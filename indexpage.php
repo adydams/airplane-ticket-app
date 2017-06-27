@@ -20,7 +20,7 @@
 </br></br></br></br></br>
 </br></br></br></br></br></br></br></br>
 
-<h1 class="styles" >Welcome to Belview fligth portals</h1>
+<h1 class="styles" >Welcome to Belview flight portals school</h1>
 <input type="submit"value="Click to book for flight..." onclick="window.location='DbAirTicketPage.php?show=include' ">
 <div id ="adiv"></div>
 </body>
